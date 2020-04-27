@@ -1,2 +1,3 @@
-let hello="Hello World";
-alert(hello);
+hello="Hello World";
+alert(hello;
+
